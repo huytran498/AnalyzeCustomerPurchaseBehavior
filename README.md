@@ -18,11 +18,11 @@ To run this project, you need Python 3.6+ and the following libraries:
 
 1. Clone this repository:
 
-git clone https://github.com/yourusername/customer-purchasing-behavior.git
+- git clone https://github.com/yourusername/customer-purchasing-behavior.git
 
 2. Navigate to the project directory:
 
-cd customer-purchasing-behavior
+- cd customer-purchasing-behavior
 
 3. Ensure your data file `Customer Purchasing Behaviors.csv` is in the same directory.
 
@@ -42,7 +42,7 @@ cd customer-purchasing-behavior
 ## File Description
 
 - `analysis_script.py`: Main Python script for data analysis
-- `Customer Purchasing Behaviors.csv`: Input data file (not included in repository)
+- `CustomerPurchasingBehaviors.csv`: Input data file (not included in repository)
 - `README.md`: This file, containing project information
 
 ## Visualizations
