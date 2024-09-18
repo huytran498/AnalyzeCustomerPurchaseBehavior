@@ -24,7 +24,7 @@ To run this project, you need Python 3.6+ and the following libraries:
 
 - cd customer-purchasing-behavior
 
-3. Ensure your data file `Customer Purchasing Behaviors.csv` is in the same directory.
+3. Ensure your data file `CustomerPurchasingBehaviors.csv` is in the same directory.
 
 4. Run the script:
 
